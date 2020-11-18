@@ -1,3 +1,3 @@
 # git
 
-verson:dev 1.1
+verson:dev 1.2
