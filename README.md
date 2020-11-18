@@ -1,3 +1,3 @@
 # git
 
-verson:1.6
+verson:1
