@@ -1,3 +1,5 @@
 # git
 
-verson:dev 1.2
+this is dev
+
+version:1.3
